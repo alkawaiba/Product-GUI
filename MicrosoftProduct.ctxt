@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=MicrosoftProduct
+comment0.text=\r\n\ is\ a\ GUI\ based\ application\ used\ for\ soft\ company(program\ description)\r\n\ \r\n\ @author(Alka\ Lama)\r\n\ @version(4.2.2)\r\n
+comment1.params=productNo\ productName
+comment1.target=MicrosoftProduct(float,\ java.lang.String)
+comment2.params=
+comment2.target=float\ getProductNo()
+comment3.params=
+comment3.target=java.lang.String\ getProductName()
+comment4.params=
+comment4.target=java.lang.String\ getActivationKey()
+comment5.params=activationKey
+comment5.target=void\ setActivationKey(java.lang.String)
+comment6.params=
+comment6.target=float\ getPrice()
+comment7.params=price
+comment7.target=void\ setPrice(float)
+comment8.params=
+comment8.target=void\ display()
+numComments=9
